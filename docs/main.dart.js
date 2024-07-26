@@ -79020,7 +79020,7 @@ A.a68.prototype={
 $0(){A.aoM(this.a,"/categories",t.X)},
 $S:0}
 A.vc.prototype={
-lx(a,b){var s,r,q,p=null,o=b.Hc($.awj(),t.pU),n=B.d.cL(A.bi(a,p,t.w).w.a.a,200)
+lx(a,b){var s,r,q,p=null,o=b.Hc($.awj(),t.pU),n=B.d.cL(A.bi(a,p,t.w).w.a.a,175)
 if(n<1)n=1
 s=J.ay(o)
 if(s.ga6(o)){s=A.O(a).ax
@@ -79087,7 +79087,7 @@ else if(J.bx(s)===0)return B.PU
 else return new A.yi(s,q)}}},
 $S:172}
 A.yi.prototype={
-K(a){var s=B.d.cL(A.bi(a,null,t.w).w.a.a,200)
+K(a){var s=B.d.cL(A.bi(a,null,t.w).w.a.a,175)
 if(s<1)s=1
 return A.aoP(new A.KU(s,4,4,0.6),new A.a4x(this),J.bx(this.c),new A.xB(null),!0)}}
 A.a4x.prototype={
